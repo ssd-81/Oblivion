@@ -1,0 +1,4 @@
+- [ ] what is ZkSync and why is it important?
+- [ ] what are l2s?
+- [ ] what is chainlink? how does it fit into the hybrid smart contract model?
+- [ ] 
