@@ -1,4 +1,8 @@
 - [ ] what is ZkSync and why is it important?
 - [ ] what are l2s?
 - [ ] what is chainlink? how does it fit into the hybrid smart contract model?
+- [ ] how hard is it to hack a blockchain? 
+- [ ] what is the meaning of infrastructure in engineering?
+- [ ] blockchains are pseudonymous (what is that)?
+- [ ] why do banks so much time to transfer money internationally (not always, but at times, don't know the current state)?
 - [ ] 
