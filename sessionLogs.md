@@ -7,3 +7,7 @@
 - 19.09.25
 	- Logs: 45-min x 1
 	- trust minimized agreements, state of blockchains, features of blockchains
+- 20.09.25
+	- none
+- 21.09.25
+	- Logs: 45-min x 3
